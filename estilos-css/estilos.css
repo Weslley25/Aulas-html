@@ -1,0 +1,40 @@
+.cabeçalho{
+    background-color: black;
+    text-align: center;
+    color: cornsilk;
+    margin-top: -21px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 70px;
+}
+
+#idhr{
+    background-color: crimson;
+    color: crimson;
+    border-color: crimson;
+}
+
+.painel{
+    background-color: black;
+    width: 600px;
+    height: 400px;
+    margin: 100px auto 0px;
+    border-radius: 5px;
+    
+}
+
+.painel-interno{
+    position: absolute;
+    background-color: brown;
+    width: 580px;
+    height: 380px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+.painel-form{
+    width: 560px;
+    height: 360px;
+    margin: 10px;
+}
